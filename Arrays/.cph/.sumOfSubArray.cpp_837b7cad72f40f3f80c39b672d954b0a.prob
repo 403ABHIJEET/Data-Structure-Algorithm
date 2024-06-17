@@ -1,0 +1,1 @@
+{"name":"Local: sumOfSubArray","url":"c:\\Users\\mymik\\Desktop\\ABHIJEET\\DSA in C++\\Arrays\\sumOfSubArray.cpp","tests":[{"id":1681603110066,"input":"5 12\n1 2 3 7 5","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mymik\\Desktop\\ABHIJEET\\DSA in C++\\Arrays\\sumOfSubArray.cpp","group":"local","local":true}

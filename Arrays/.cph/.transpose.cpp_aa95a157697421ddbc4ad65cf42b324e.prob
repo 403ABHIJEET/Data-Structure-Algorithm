@@ -1,0 +1,1 @@
+{"name":"Local: transpose","url":"c:\\Users\\mymik\\Desktop\\ABHIJEET\\DSA in C++\\Arrays\\transpose.cpp","tests":[{"id":1684407433861,"input":"4 3\n1 2 3\n4 5 6\n7 8 9\n10 11 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mymik\\Desktop\\ABHIJEET\\DSA in C++\\Arrays\\transpose.cpp","group":"local","local":true}
